@@ -1,0 +1,23 @@
+{
+  "__file": "package.json",
+  "name": "astral-scan",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "license": "MIT",
+  "dependencies": {
+    "@coinbase/wallet-sdk": "latest",
+    "viem": "latest",
+    "axios": "latest",
+    "web3": "latest",
+    "ethers": "latest",
+
+    "base-node": "github:base/node",
+    "coinbase-agentkit": "github:coinbase/agentkit",
+    "base-web": "github:base/web",
+    "base-docs": "github:base/docs",
+    "coinbase-wallet-sdk": "github:coinbase/wallet-sdk",
+    "base-smart-wallet": "github:base/smart-wallet",
+    "coinbase-x402": "github:coinbase/x402"
+  }
+}
